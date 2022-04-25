@@ -1,0 +1,12 @@
+C:\2-2ИС\vds\farm\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\2-2ИС\vds\farm\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\2-2ИС\vds\farm\ClassLibrary\bin\Debug\net6.0\ref\ClassLibrary.dll
+C:\2-2ИС\vds\farm\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\2-2ИС\vds\farm\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
